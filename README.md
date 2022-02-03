@@ -1,16 +1,15 @@
-Hi there, I'm [kiryaremchuk](https://github.com/kiryaremchuk) 👋
+<h4>Hi there, I'm [kiryaremchuk](https://github.com/kiryaremchuk) 👋</h4>
 
----
 
-I'm a FullStack Developer with wide range of skillz!
+<h4>I'm a FullStack Developer with wide range of skillz!</h4>
 <ul>
 <li>📚 I’m currently learning everything [Mostly ReactJS/AWS/Kubernetes]</li>
 <li>🥅 2022 Goals: Get good with React and Microservices. Get more into React/Postgres/MongoDB</li>
 </ul>
 
----
+<hr/>
 
-🧰 Languages and Tools:
+<h4>🧰 Languages and Tools:<h4>
 <p align="left">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="ExpressJS" height="30" style="vertical-align:top; margin:4px">
   <img src="https://user-images.githubusercontent.com/43817369/152420668-c84275e2-bf46-4dcd-933b-3a35d3882c55.png" alt="RabbitMQ" height="30" style="vertical-align:top; margin:4px">
@@ -23,6 +22,6 @@ I'm a FullStack Developer with wide range of skillz!
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="30" style="vertical-align:top; margin:4px">
 </p>
 
----
+<hr/>
 
 ![Kir's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiryaremchuk&show_icons=true&theme=highcontrast)
